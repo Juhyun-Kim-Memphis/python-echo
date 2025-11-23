@@ -1,3 +1,3 @@
 # python-echo2
 
-example...
+example
